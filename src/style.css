@@ -1,0 +1,14 @@
+*{
+	margin: 0px;
+}
+.divMessage{
+	width: 34%;
+	height: 250px;
+	margin: 2% 33%;
+	padding: 1em 1em;
+	border: 1px solid lightblue;
+}
+input{
+	padding: 1em 1em;
+	margin: 1em 1em;
+}
